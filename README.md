@@ -31,9 +31,17 @@
 
 ###
 
-<p align="left">I am a purposeful and highly motivated person ⚡ who can adjust
+<p align="left"> I graduated from the Faculty of Applied Mathematics and Computer Science 
+I am a purposeful and highly motivated person ⚡ who can adjust
 quickly to new surroundings.I am ready to learn new information 📚  
-and improve my skills to reach new heights
+and improve my skills to reach new heights.
+<h4>- Professional interests:</h4>Reading of 
+professional books and Web-sources 
+(articles, professional courses, YouTube, 
+forums etc.), learning English
+<h4>- Hobbies:</h4>Listen to good music , I like to 
+play guitar in my spare time, Watching a 
+football ,basketball, chess
 </p>
 
 ###
