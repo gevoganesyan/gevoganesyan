@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gevoganesyan.gevoganesyan"  />
 </div>
 
 ###
@@ -39,7 +39,7 @@ and improve my skills to reach new heights.
 professional books and Web-sources 
 (articles, professional courses, YouTube, 
 forums etc.), learning English
-<h4>- Hobbies:</h4>Listen to good music , I like to 
+<h4>- Hobbies:</h4>Listen to good music, I like to 
 play guitar in my spare time, Watching a 
 football ,basketball, chess
 </p>
