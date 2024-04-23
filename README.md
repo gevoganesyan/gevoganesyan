@@ -21,10 +21,6 @@
 
 ###
 
-<div align="center">
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-</div>
-
 ###
 
 <h3 align="left">👩‍💻 About me</h3>
