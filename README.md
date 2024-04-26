@@ -72,8 +72,7 @@ football ,basketball, chess
 -->
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gevoganesyan&count_private=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=gevoganesyan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gevoganesyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
 
